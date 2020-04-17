@@ -1,0 +1,94 @@
+html{
+	background-color: #FFE4E1;
+	font family: 'montserrat', 'oswald', sans-serif;
+}
+
+div.header {
+	width: 1250px;
+	height: 250px;
+	margin: 0 auto;
+	padding: 5px;
+	height: 10em;
+	font-color: #383838;
+	letter-spacing: 2px;
+	background-image: url("https://www.ingimage.com/stock-photo-preview/99743130/350/ing_42105_02179.jpg");
+	display: block;
+}
+
+.main-nav{
+	float: right;
+	list-style: none;
+}
+
+.main-nav li{
+	display: inline-block;
+}
+
+.main-nav li a{
+	background-color: #FFFbFB;
+	color: #383838;
+	text-decoration: none;
+	font family: 'montserrat', 'oswald', sans-serif;
+	font-size: 16px;
+	padding: 10px;
+	border: #383838 3px solid;
+}
+
+h1{
+	font: 'Montserrat";
+	font-color: #383838;
+	background-color: #FFFbFB;
+	padding: 10px;
+	border: #383838 3px solid;
+	letter-spacing: 2px;
+	font-size: 64px;
+	display: inline-block;
+	position: absolute;
+	top: 25px;
+	left: 350px;
+	
+}
+
+img.mbefore{	
+	position: absolute;
+	height: 500px auto;
+	top: 200px;
+	left: 350px;
+	border: 3px solid #383838;
+	width: 300px;
+	display: inline-block;
+}
+
+img.mafter{
+	position: absolute;
+	height: 500px auto;
+	top: 200px;
+	left: 750px;
+	border: 3px solid #383838;
+	width: 300px;
+	display: inline-block;
+}
+
+img.braid{
+	position: absolute;
+	height: 500px auto;
+	top: 465px;
+	left: 1208px;
+	border: 3px solid #383838;
+	width: 352px;
+	display: inline-block;
+}
+
+p.bio{
+	position:absolute;
+	height: 375px auto;
+	top: 200px;
+	left: 1195px;
+	margin: 6px;
+	float: right;
+	clear: right;
+	padding: 5px;
+	background-color: #fffbfb;
+	width: 370px;
+	border: 3px solid #383838;
+}
