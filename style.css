@@ -55,11 +55,6 @@ img.floatleft{
 	left: 525px;
 	height: 500px auto;
 	border: 3px solid #383838;
-	-webkit-transform:rotate(270deg);
-	-moz-transform: rotate(270deg);
-	-ms-transform: rotate(270deg);
-	-o-transform: rotate(270deg);
-	transform: rotate(270deg);
 	width: 450px;
 	display: inline-block;
 	
