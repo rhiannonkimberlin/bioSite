@@ -92,3 +92,12 @@ p.bio{
 	width: 370px;
 	border: 3px solid #383838;
 }
+footer{
+	width: 1250px;
+	height: 150px;
+	margin: 0 auto;
+	padding: 5px;
+	height: 10em;
+	background-image: url("images/header.jpg");
+	display: block;
+}
