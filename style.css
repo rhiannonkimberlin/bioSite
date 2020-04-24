@@ -73,14 +73,12 @@ p.bio{
 	border: 3px solid #383838;
 }
 
-footer{
-	width: 1250px;
-	height: 150px;
-	margin: 0 auto;
-	padding: 5px;
-	height: 10em;
-	margin-top: -10em;
-	clear: both;
-	background-image: url("images/header.jpg");
-	display: block;
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 1250px;
+	height:150px;
+  background-image: url("images/header.jpg");
 }
