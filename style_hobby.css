@@ -93,10 +93,9 @@ p.bio{
 	border: 3px solid #383838;
 }
 .footer {
-  position: fixed;
-  left: 0;
+  position: absolute;
   bottom: 0;
   width: 1250px;
-	height:150px;
+	height:100px;
   background-image: url("images/header.jpg");
 }
