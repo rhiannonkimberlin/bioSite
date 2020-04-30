@@ -13,6 +13,8 @@ div.header {
 	letter-spacing: 2px;
 	background-image: url("images/header.jpg");
 	display: block;
+	position: absolute;
+	top: 0;
 }
 
 .main-nav{
