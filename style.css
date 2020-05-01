@@ -46,6 +46,7 @@ h1{
 div.body{
 	position: absolute;
 	top: 210px;
+	display: inline-block;
 
 }
 img.floatleft{	
