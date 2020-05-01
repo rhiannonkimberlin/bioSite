@@ -44,7 +44,7 @@ h1{
 	border: #383838 3px solid;
 	letter-spacing: 2px;
 	font-size: 64px;
-	display: inline-block;
+	display: block;
 	position: absolute;
 	
 }
