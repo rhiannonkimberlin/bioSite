@@ -51,7 +51,7 @@ h1{
 }
 
 img.mbefore{	
-	width: 15em;
+	width: 25em;
 	height: auto;
 	border: 3px solid #383838;
 	clear: left;
@@ -59,7 +59,7 @@ img.mbefore{
 }
 
 img.mafter{
-	width: 15em;
+	width: 25em;
 	height: auto;
 	border: 3px solid #383838;
 	clear: both;
@@ -68,7 +68,7 @@ img.mafter{
 
 img.braid{
 	height: auto;
-	width: 20em;
+	width: 35em;
 	border: 3px solid #383838;
 	clear: right;
 	margin: 10px;
