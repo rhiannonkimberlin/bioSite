@@ -43,10 +43,12 @@ h1{
 	position: absolute;
 	
 }
-
-img.floatleft{	
+div.body{
 	position: absolute;
 	top: 210px;
+
+}
+img.floatleft{	
 	height: 450px ;
 	border: 3px solid #383838;
 	clear: left;
