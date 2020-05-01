@@ -9,11 +9,7 @@ html{
 }
 
 div.header {
-	width: 1250px;
-	height: 250px;
 	margin: 0 auto;
-	padding: 5px;
-	height: 10em;
 	font-color: #383838;
 	letter-spacing: 2px;
 	background-image: url("images/header.jpg");
@@ -55,30 +51,24 @@ h1{
 }
 
 img.mbefore{	
-	position: absolute;
 	height: 500px auto;
 	border: 3px solid #383838;
-	width: 300px;
 	clear: left;
 	margin: 10px;
 }
 
 img.mafter{
-	position: absolute;
 	height: 500px auto;
 	border: 3px solid #383838;
-	width: 300px;
 	clear: both;
 	margin: 10px;
 }
 
 img.braid{
-	position: absolute;
 	height: 500px auto;
 	border: 3px solid #383838;
-	width: 352px;
 	clear: right;
-	margin:10px;
+	margin: 10px;
 }
 div.body{
 	position: absolute;
@@ -90,18 +80,18 @@ div.body{
 p.bio{
 	position:absolute;
 	height: 375px auto;
-	margin: 6px;
-	float: right;
-	clear: right;
-	padding: 5px;
+	margin: 10px;
+	float: left;
+	clear: left;
+	padding: 10px;
 	background-color: #fffbfb;
 	width: 370px;
 	border: 3px solid #383838;
+	display: inline-block;
 }
 .footer {
   position: absolute;
   bottom: 0;
-	left: 335px;
   width: 1250px;
 	height:100px;
   background-image: url("images/header.jpg");
