@@ -70,12 +70,13 @@ img.braid{
 	height: auto;
 	width: 25em;
 	border: 3px solid #383838;
-	clear: left;
+	clear: right;
+	float: bottom right;
 	margin: 10px;
 }
 div.body{
 	position: absolute;
-	top: 150px;
+	top: 200px;
 	display: inline-block;
 	padding: 20px;
 }
@@ -84,8 +85,8 @@ p.bio{
 	position:absolute;
 	height: 375px auto;
 	margin: 10px;
-	float: left;
-	clear: left;
+	float: right;
+	clear: right;
 	padding: 10px;
 	background-color: #fffbfb;
 	width: 370px;
