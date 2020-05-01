@@ -51,25 +51,24 @@ h1{
 }
 
 img.mbefore{	
-	
-	height: 500px auto;
-	width: 300px;
+	height: 300px auto;
+	width: 200px;
 	border: 3px solid #383838;
 	clear: left;
 	margin: 10px;
 }
 
 img.mafter{
-	height: 500px auto;
-	width: 300px;
+	height: 300px auto;
+	width: 200px;
 	border: 3px solid #383838;
 	clear: both;
 	margin: 10px;
 }
 
 img.braid{
-	height: 500px auto;
-	width: 352px;
+	height: 300px auto;
+	width: 252px;
 	border: 3px solid #383838;
 	clear: right;
 	margin: 10px;
