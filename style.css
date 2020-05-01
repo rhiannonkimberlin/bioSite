@@ -50,17 +50,16 @@ img.floatleft{
 	height: 450px ;
 	border: 3px solid #383838;
 	display: inline-block;
-	clear: right;
+	clear: left;
 
 }
 
 p.bio{
 	position:absolute;
 	top: 200px;
-
 	margin: 6px;
-	float: right;
-	clear: right;
+	float: left;
+	clear: left;
 	padding: 5px;
 	background-color: #fffbfb;
 	width: 352px;
