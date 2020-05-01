@@ -93,7 +93,7 @@ p.bio{
 	display: inline-block;
 }
 .footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 1250px;
 	height:100px;
