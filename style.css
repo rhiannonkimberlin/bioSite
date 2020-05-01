@@ -1,6 +1,11 @@
 html{
 	background-color: #FFE4E1;
 	font family: 'montserrat', 'oswald', sans-serif;
+	position:fixed;
+   	top:0;
+    bottom:0;
+    left:0;
+    right:0;
 }
 
 div.header {
