@@ -50,7 +50,7 @@ img.floatleft{
 	height: 450px ;
 	border: 3px solid #383838;
 	display: inline-block;
-	clear: left;
+	clear: right;
 
 }
 
@@ -60,7 +60,7 @@ p.bio{
 
 	margin: 6px;
 	float: right;
-	clear: left;
+	clear: right;
 	padding: 5px;
 	background-color: #fffbfb;
 	width: 352px;
