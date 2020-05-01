@@ -54,16 +54,15 @@ img.floatleft{
 	height: 450px ;
 	border: 3px solid #383838;
 	clear: left;
-	padding: 20px;
+
 
 }
 
 p.bio{
 	position:absolute;
-	margin: 6px;
+	margin: 10px;
 	float: left;
 	clear: left;
-	padding: 20px;
 	background-color: #fffbfb;
 	width: 352px;
 	border: 3px solid #383838;
