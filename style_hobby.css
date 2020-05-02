@@ -83,11 +83,11 @@ div.body{
 }
 
 p.bio{
-	position: absolute;
+	position: static;
 	height: 375px auto;
 	margin: 10px;
 	float: top right;
-	clear: none;
+	clear: both;
 	padding: 10px;
 	background-color: #fffbfb;
 	width: 370px;
@@ -95,9 +95,9 @@ p.bio{
 
 }
 .footer {
-  position: fixed;
-  bottom: 0;
-  width: 1250px;
+  	position: fixed;
+  	bottom: 0;
+  	width: 1250px;
 	height:100px;
-  background-image: url("images/header.jpg");
+  	background-image: url("images/header.jpg");
 }
