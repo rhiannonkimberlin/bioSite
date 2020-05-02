@@ -83,7 +83,7 @@ div.body{
 }
 
 p.bio{
-	position: static;
+	position: relative;
 	height: 375px auto;
 	margin: 10px;
 	float: top right;
