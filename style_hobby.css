@@ -74,6 +74,7 @@ img.braid{
 	float: bottom right;
 	margin: 10px;
 }
+
 div.body{
 	position: absolute;
 	top: 200px;
@@ -82,7 +83,7 @@ div.body{
 }
 
 p.bio{
-	position: fixed;
+	position: absolute;
 	height: 375px auto;
 	margin: 10px;
 	float: top right;
