@@ -82,11 +82,10 @@ div.body{
 }
 
 p.bio{
-	position:absolute;
+	position: fixed;
 	height: 375px auto;
 	margin: 10px;
 	float: top right;
-	clear: both;
 	padding: 10px;
 	background-color: #fffbfb;
 	width: 370px;
