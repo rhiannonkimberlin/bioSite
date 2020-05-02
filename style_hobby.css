@@ -87,6 +87,7 @@ p.bio{
 	height: 375px auto;
 	margin: 10px;
 	float: top right;
+	clear: left;
 	padding: 10px;
 	background-color: #fffbfb;
 	width: 370px;
