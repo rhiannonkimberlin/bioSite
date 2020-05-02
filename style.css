@@ -7,7 +7,7 @@ html{
 	min-height: 1000px;
 	background-color: #FFE4E1;
 	font family: 'montserrat', 'oswald', sans-serif;
-	position:fixed;
+	position: absolute;
 }
 
 div.header {
