@@ -87,6 +87,7 @@ div.body{
 	display: inline-block;
 	padding: 20px;
 	clear: left;
+	width: 60%;
 }
 div.imgs{
 	position: relative;
@@ -94,6 +95,7 @@ div.imgs{
 	display: block;
 	padding: 20px;
 	clear: left;
+	width: 40%;
 
 p.bio{
 	position: absolute;
