@@ -75,7 +75,7 @@ img.braid{
 	clear: both;
 	margin: 10px;
 	display: inline;
-	position: absolute;
+	position: relative;
 }
 
 div.body{
