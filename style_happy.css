@@ -49,28 +49,30 @@ h1{
 	
 }
 
-img.floatleft{	
+div.body{
 	position: absolute;
 	top: 200px;
-	left: 350px;
+	display: inline-block;
+	padding: 20px;
+}
+
+img.floatleft{	
+	position: relative;
 	border: 3px solid #383838;
 	width: 800px;
-	display: inline-block;
-	
-
+	clear: right;
 }
 
 p.bio{
 	position:absolute;
-	top: 200px;
-	left: 1195px;
-	margin: 6px;
-	float: right;
-	clear: right;
-	padding: 5px;
+	margin: 10px;
+	float: left;
+	clear: left;
 	background-color: #fffbfb;
 	width: 352px;
 	border: 3px solid #383838;
+	display: inline-block;
+	padding: 10px;
 }
 
 .footer {
