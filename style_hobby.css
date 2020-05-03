@@ -51,6 +51,11 @@ h1{
 	
 }
 
+div.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
 div.body{
 	position: relative;
 	top: 200px;
@@ -78,10 +83,12 @@ img.mafter{
 }
 
 div.imgs{
-	position: fixed;
+	position: relative;
+	top: 200px;
 	padding: 20px;
+	float: left;
 	width: 25em;
-	float: right;
+	vertical-align: top;
 	}
 	
 p.bio{
