@@ -55,19 +55,17 @@ img.mbefore{
 	width: 20em;
 	height: auto;
 	border: 3px solid #383838;
-	float: left;
 	margin: 10px;
-	clear: left;
-	position: absolute;
-	display: inline-block;
+	clear: right;
 }
 
 img.mafter{
 	width: 20em;
 	height: auto;
 	border: 3px solid #383838;
-	clear: none;
+	clear: left;
 	margin: 10px;
+	display: inline-block;
 }
 
 img.braid{
@@ -77,28 +75,29 @@ img.braid{
 	float: bottom right;
 	clear: both;
 	margin: 10px;
-	display: inline;
+	display: block;
 	position: relative;
 }
 
 div.body{
-	position: absolute;
+	position: relative;
 	top: 200px;
 	display: inline-block;
 	padding: 20px;
-	float: left;
-	width: 60%;
+	width: 80em;
 	clear: left;
 }
 div.imgs{
-	position: absolute;
-	top: 200px;
+	position: relative;
+	left: 0;
+	top:0;
 	display: block;
 	padding: 20px;
-	float: left;
+	float: right;
 	clear: left;
-	width: 40%;
-)
+	width: 30em;
+	}
+
 p.bio{
 	position: absolute;
 	height: 375px auto;
