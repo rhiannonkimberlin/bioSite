@@ -73,7 +73,7 @@ img.braid{
 	border: 3px solid #383838;
 	float: bottom right;
 	margin: 10px;
-	display: block;
+	display: inline;
 	position: absolute;
 }
 
