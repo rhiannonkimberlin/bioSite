@@ -57,6 +57,7 @@ img.mbefore{
 	border: 3px solid #383838;
 	float: left;
 	margin: 10px;
+	clear: left;
 	position: absolute;
 	display: inline-block;
 }
