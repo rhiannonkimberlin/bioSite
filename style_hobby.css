@@ -57,13 +57,14 @@ img.mbefore{
 	border: 3px solid #383838;
 	float: left;
 	margin: 10px;
+		display: inline-block;
 }
 
 img.mafter{
 	width: 20em;
 	height: auto;
 	border: 3px solid #383838;
-	clear: both;
+	clear: none;
 	margin: 10px;
 }
 
