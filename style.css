@@ -18,12 +18,11 @@ div.head{
 }
 
 div.header {
-	margin: 0;
+	margin: 0 auto;
 	font-color: #383838;
 	letter-spacing: 2px;
 	background-image: url("images/header.jpg");
 	height:20em;
-	width:100%;
 }
 
 .main-nav{
@@ -121,20 +120,19 @@ p.happyp{
 div.container{
 	padding: 20px;
 	margin: 0 auto;
-	width:80em;
+	width: 80em;
 }
 
 div.hobby{
 	position: relative;
 	display: inline-block;
 	padding: 20px;
-	width: 25em;
-	height: 21em;
+	width: 100px;
 	clear: both;
 }
 
 img.mbefore{	
-	width: 21em;
+	width: 19em;
 	height: auto;
 	border: 3px solid #383838;
 	margin: 10px;
@@ -142,8 +140,8 @@ img.mbefore{
 }
 
 img.mafter{
-	width: 21em;
-	position:absolute;
+	width: 19em;
+	position: absolute;
 	height: auto;
 	border: 3px solid #383838;
 	clear: both;
@@ -154,25 +152,25 @@ img.mafter{
 div.imgs{
 	position: relative;
 	padding: 20px;
-	float: left;
-	width: 20em;
-	vertical-align: top;
-	}
+	float: right;
+	width: 40%;
+	margin: 0 auto;
+	top: -625px;
+}
 	
 p.hobbyp{
 	position: relative;
 	height: 375px auto;
-	margin: 10px;
 	padding: 10px;
 	background-color: #fffbfb;
-	width: 28em;
+	width: 27em;
 	border: 3px solid #383838;
 	display: inline-block;
 }
 
 img.braid{
 	height: auto;
-	width: 29em;
+	width: 28em;
 	border: 3px solid #383838;
 	float: bottom;
 	margin: 10px;
