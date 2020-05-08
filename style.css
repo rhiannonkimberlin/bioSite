@@ -175,6 +175,7 @@ img.braid{
 	float: bottom;
 	margin: 10px;
 	position: relative;
+	left: -1;
 }
 
 .footer {
