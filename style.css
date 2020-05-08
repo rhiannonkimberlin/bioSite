@@ -11,7 +11,11 @@ html{
 }
 
 div.head{
-	margin:0px;
+	top:0;
+	margin:5px;
+	width:100%;
+	height:20em;
+	padding:0px;
 }
 
 div.header {
@@ -19,10 +23,9 @@ div.header {
 	font-color: #383838;
 	letter-spacing: 2px;
 	background-image: url("images/header.jpg");
-	display: block;
+	height:20em;
+	width:100%;
 }
-
-
 
 .main-nav{
 	float: right;
@@ -55,11 +58,10 @@ h1{
 	position: absolute;
 	top: 25px;
 	left: 350px;
-	
 }
 
 div.body{
-	top: 200px;
+	top: 15em;
 	padding: 20px;
 	width:100%;
 
@@ -69,11 +71,7 @@ img.floatleft{
 	border: 3px solid #383838;
 	clear: left;
 	margin: 10px;
-	-moz-transform: rotate(90deg);  /* FF3.5/3.6 */
-	-o-transform: rotate(0deg);  /* Opera 10.5 */
-	-webkit-transform: rotate(0deg);  /* Saf3.1+ */
-	transform: rotate(0deg);  /* Newer browsers (incl IE9) */	
-
+	display:inline-block;
 }
 
 p.bio{
@@ -84,8 +82,8 @@ p.bio{
 	background-color: #fffbfb;
 	width: 352px;
 	border: 3px solid #383838;
-	display: inline-block;
 	padding: 10px;
+	display: inline-block;
 }
 
 
