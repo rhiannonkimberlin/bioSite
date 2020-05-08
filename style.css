@@ -178,6 +178,17 @@ img.braid{
 	left: -1;
 }
 
+a.totop{
+	background-color: #FFFbFB;
+	color: #383838;
+	text-decoration: none;
+	font family: 'montserrat', 'oswald', sans-serif;
+	font-size: 16px;
+	padding: 10px;
+	border: #383838 3px solid;
+	float: right;
+}
+
 .footer {
  	position: static;
 	margin:0 auto;
