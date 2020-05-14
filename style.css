@@ -175,14 +175,13 @@ img.braid{
 	float: bottom;
 	margin: 10px;
 	position: relative;
-	left: -1;
+	left: -1px;
 }
 
 a.totop{
 	background-color: #FFFbFB;
 	color: #383838;
 	text-decoration: none;
-	font family: 'montserrat', 'oswald', sans-serif;
 	font-size: 16px;
 	padding: 10px;
 	border: #383838 3px solid;
