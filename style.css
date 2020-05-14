@@ -74,6 +74,7 @@ img.floatleft{
 	clear: left;
 	margin: 10px;
 	display:inline-block;
+	max-width:100%;
 }
 
 p.bio{
