@@ -74,7 +74,6 @@ img.floatleft{
 	clear: left;
 	margin: 10px;
 	display:inline-block;
-	max-width:100%;
 }
 
 p.bio{
@@ -206,4 +205,12 @@ a.totop{
 @media screen and (max-width: 768px) {
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
+}
+
+@media 
+  (-webkit-min-device-pixel-ratio: 2), 
+  (min-resolution: 192dpi) { 
+  .img {
+    background-image: url(images/hazzelmunoz.JPG);
+  }
 }
