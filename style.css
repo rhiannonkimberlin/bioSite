@@ -19,7 +19,7 @@ div.head{
 
 div.header {
 	margin: 0 auto;
-	font-color: #676766;
+	color: #383838;
 	letter-spacing: 2px;
 	background-image: url("images/header.jpg");
 	height:20em;
