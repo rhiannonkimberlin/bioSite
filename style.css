@@ -19,7 +19,7 @@ div.head{
 
 div.header {
 	margin: 0 auto;
-	font-color: #383838;
+	font-color: #676766;
 	letter-spacing: 2px;
 	background-image: url("images/header.jpg");
 	height:20em;
@@ -46,7 +46,7 @@ div.header {
 
 h1{
 	font: 'Montserrat";
-	font-color: #383838;
+	font-color: #676766;
 	background-color: #FFFbFB;
 	padding: 10px;
 	border: #383838 3px solid;
