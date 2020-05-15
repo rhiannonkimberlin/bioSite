@@ -207,10 +207,14 @@ a.totop{
     #secondary { width:100%; margin:0; border:none; }
 }
 
-@media 
-  (-webkit-min-device-pixel-ratio: 2), 
-  (min-resolution: 192dpi) { 
-  .img {
-    background-image: url(images/hazzelmunoz.JPG);
-  }
+
+@media (min-device-width:600px) {
+    img[data-src-600px] {
+        content: attr(data-src-600px, url(images/hazzelmunoz.JPG));
+    }
+}
+@media (min-device-width:800px) {
+    img[data-src-800px] {
+        content: attr(data-src-800px, url(images/hazzelmunoz.JPG));
+    }
 }
